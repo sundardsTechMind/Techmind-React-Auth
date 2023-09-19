@@ -17,4 +17,6 @@ function App() {
 	);
 }
 
+console.log("Deployed Successfully");
+
 export default App;
